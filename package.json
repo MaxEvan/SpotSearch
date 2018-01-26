@@ -1,0 +1,27 @@
+{
+  "name": "spotsearch",
+  "version": "1.0.0",
+  "description": "A library for Spolight/Alfred like search on your website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxEvan/SpotSearch.git"
+  },
+  "keywords": [
+    "spotlight",
+    "alfred",
+    "search",
+    "searchbar"
+  ],
+  "author": "Max Evan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxEvan/SpotSearch/issues"
+  },
+  "homepage": "https://github.com/MaxEvan/SpotSearch#readme",
+  "devDependencies": {
+  }
+}
